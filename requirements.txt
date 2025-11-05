@@ -1,0 +1,6 @@
+torch
+torchvision
+optuna
+matplotlib
+tqdm
+scikit-learn
