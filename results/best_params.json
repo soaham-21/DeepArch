@@ -1,0 +1,23 @@
+{
+  "n_conv_blocks": 3,
+  "activation": "relu",
+  "n_fc": 1,
+  "fc_use_bn": true,
+  "dropout": 0.12908794268888735,
+  "filters_0": 32,
+  "kernel_0": 5,
+  "use_bn_0": true,
+  "pool_0": "avg",
+  "filters_1": 128,
+  "kernel_1": 3,
+  "use_bn_1": true,
+  "pool_1": "avg",
+  "filters_2": 64,
+  "kernel_2": 3,
+  "use_bn_2": true,
+  "pool_2": "max",
+  "fc_units_0": 256,
+  "optimizer": "adam",
+  "lr": 0.0009716898727310039,
+  "weight_decay": 3.0333140932404824e-05
+}
